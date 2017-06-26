@@ -1,0 +1,25 @@
+
+
+
+{"content":[ 
+        {"title" : "Exhale",    
+        "url" : "https://classpass.com/home",    
+        "tags" : ["tag-1", "tag-2", "tag-3"],    
+        "description" : "Book a Class at Exhale!",
+        "author" : "Exhale Core Fusion",
+        "vars" : {
+        "source" : "ClassPass"},       
+        "image" : "https://d342jfhztpgus0.cloudfront.net/images/355/355640/7mew_576.jpg"},
+       
+
+        {"title" : "Physique 57",    
+        "url" : "https://classpass.com/home",
+        "tags" : ["tag-5", "tag-6", "tag-7"],   
+        "description" : "",
+        "author" : "Book a Class at Physique 57",
+        "vars" : {
+        "source" : "ClassPass"},     
+        "image" : "https://d342jfhztpgus0.cloudfront.net/images/335/335846/7752_313.jpg"} 
+       ] 
+
+}
